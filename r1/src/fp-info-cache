@@ -1,4 +1,4 @@
-19842653682720133
+19844265221034133
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -85973,6 +85973,13 @@ GDEH029A1
 0
 0
 0
+jeffmakes-footprints
+Hirose_FH12-20S-0.5SVA_1x20-1MP_P0.50mm_Vertical
+Hirose FH12, FFC/FPC connector, FH12-20S-0.5SH, 20 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+24
+21
 jeffmakes-footprints
 IDC-Header_2x05_P2.54mm_Vertical_SMD
 Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows

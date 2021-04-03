@@ -1419,7 +1419,7 @@
     (property "Reference" "J201" (id 0) (at 175.26 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2842142-4" (id 1) (at 171.45 85.09 0)
+    (property "Value" "2314844-8" (id 1) (at 171.45 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "jeffmakes-footprints:PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU" (id 2) (at 175.26 74.93 0)
@@ -1574,7 +1574,7 @@
       (reference "H206") (unit 1) (value "MountingHole") (footprint "")
     )
     (path "/e1a24511-a876-49f8-a44e-35e0f62d5b74"
-      (reference "J201") (unit 1) (value "2842142-4") (footprint "jeffmakes-footprints:PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU")
+      (reference "J201") (unit 1) (value "2314844-8") (footprint "jeffmakes-footprints:PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU")
     )
     (path "/dd841a3a-f14d-482c-bc64-6bfede2e6e4b"
       (reference "J202") (unit 1) (value "FH12-20S-0.5SH") (footprint "Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal")

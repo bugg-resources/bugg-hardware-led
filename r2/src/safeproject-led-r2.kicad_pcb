@@ -121,11 +121,14 @@
   (footprint "" locked (layer "F.Cu")
     (tedit 60652569) (tstamp 004d111e-09aa-4831-b22b-10da6255de26)
     (at 4.5 -9)
-    (fp_text reference "" (at 0 0) (layer "F.SilkS")
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/b58a2690-8660-4d8f-8af0-069247d4b235")
+    (fp_text reference "H205" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 2e6b8ed6-8dc4-461b-8f97-d8493d087426)
     )
-    (fp_text value "" (at 0 0) (layer "F.SilkS")
+    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 7e4e95ee-a8c8-4f4b-a617-30da2c0e7aa3)
     )
@@ -135,11 +138,14 @@
   (footprint "" locked (layer "F.Cu")
     (tedit 60652569) (tstamp 4c3f759b-1d3c-4f11-a382-350172d0cc13)
     (at 0 35.5)
-    (fp_text reference "" (at 0 0) (layer "F.SilkS")
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/1cc1bbdb-c0ab-4784-9028-d04976651e40")
+    (fp_text reference "H206" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 7e00d585-8896-4838-9dbe-caab99240fde)
     )
-    (fp_text value "" (at 0 0) (layer "F.SilkS")
+    (fp_text value "MountingHole" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp f1a7becc-6137-4d42-86a5-ed6539634561)
     )
@@ -151,8 +157,11 @@
     (at 0 9)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.8) (layer "F.SilkS") hide
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/36b4f85a-1ddd-4fa4-9947-9fe4637a0969")
+    (attr exclude_from_pos_files)
+    (fp_text reference "H204" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a4db3f89-c1ca-49b7-a081-6e644afb8cc5)
     )
@@ -175,8 +184,11 @@
     (at 6 0)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.8) (layer "F.SilkS") hide
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/214c1eae-cb75-4585-a61c-bbaa84266b34")
+    (attr exclude_from_pos_files)
+    (fp_text reference "H201" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 581c92a6-5138-4be5-81ab-0d65eb689055)
     )
@@ -199,10 +211,13 @@
     (at 0 -9)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/9875f2ff-0604-4fbb-8b78-88ef54902074")
     (clearance 1.4)
     (zone_connect 0)
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.8) (layer "F.SilkS") hide
+    (attr exclude_from_pos_files)
+    (fp_text reference "H203" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c836a934-5636-402a-9f5d-2453096e79aa)
     )
@@ -225,8 +240,11 @@
     (at -6 0)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
-    (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -3.8) (layer "F.SilkS") hide
+    (property "Sheetfile" "safeproject-led-r2.kicad_sch")
+    (property "Sheetname" "")
+    (path "/29b07526-3b8f-46ab-9118-ddd441d2f843")
+    (attr exclude_from_pos_files)
+    (fp_text reference "H202" (at 0 -3.8) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0399a290-a445-4e9a-88d5-3cffc42420a1)
     )

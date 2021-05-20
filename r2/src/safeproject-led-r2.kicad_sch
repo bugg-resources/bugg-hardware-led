@@ -1495,7 +1495,7 @@
     (property "Reference" "J202" (id 0) (at 238.125 94.615 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "FH12-20S-0.5SH" (id 1) (at 238.125 97.155 0)
+    (property "Value" "FH12A-20S-0.5SH" (id 1) (at 238.125 97.155 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal" (id 2) (at 234.95 95.25 0)
@@ -1577,7 +1577,7 @@
       (reference "J201") (unit 1) (value "2314844-8") (footprint "jeffmakes-footprints:PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU")
     )
     (path "/dd841a3a-f14d-482c-bc64-6bfede2e6e4b"
-      (reference "J202") (unit 1) (value "FH12-20S-0.5SH") (footprint "Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal")
+      (reference "J202") (unit 1) (value "FH12A-20S-0.5SH") (footprint "Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal")
     )
     (path "/f492d516-c771-407a-acac-9bdee10f94fd"
       (reference "LED201") (unit 1) (value "IN-P32TATRGB") (footprint "LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW")

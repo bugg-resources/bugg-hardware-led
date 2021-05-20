@@ -462,7 +462,7 @@
       "model_mode": 0
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../build/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -470,7 +470,7 @@
   },
   "sheets": [
     [
-      "c952826d-6c1e-436f-822e-1be8a6eb7ae9",
+      "1e0acc3a-3f74-4bc4-b91e-a533c89efe3c",
       ""
     ]
   ],

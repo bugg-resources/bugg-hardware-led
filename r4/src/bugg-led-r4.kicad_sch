@@ -874,6 +874,11 @@
     (uuid d4b794e4-93d9-429f-bc61-0bed5060c018)
   )
 
+  (bus_entry (at 40.64 21.59) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid 489df835-16c3-4230-8cb6-c7fc114d8a22)
+  )
+
   (wire (pts (xy 119.38 124.46) (xy 124.46 124.46))
     (stroke (width 0) (type solid))
     (uuid 010d45d3-c509-4bca-b47c-838821e37e78)
@@ -1330,7 +1335,7 @@
     (property "Value" "MountingHole" (at 168.91 38.7349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 165.1 36.83 0)
+    (property "Footprint" "jeffmakes-footprints:MountingHole_2.0mm" (at 165.1 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 165.1 36.83 0)
@@ -1339,7 +1344,7 @@
     (instances
       (project "bugg-led-r4"
         (path "/79d27b01-4301-4e81-9656-f37ccd19516d"
-          (reference "H206") (unit 1) (value "MountingHole") (footprint "")
+          (reference "H206") (unit 1) (value "MountingHole") (footprint "jeffmakes-footprints:MountingHole_2.0mm")
         )
       )
     )
@@ -1805,7 +1810,7 @@
     (property "Value" "MountingHole" (at 168.91 32.3849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 165.1 30.48 0)
+    (property "Footprint" "jeffmakes-footprints:MountingHole_2.0mm" (at 165.1 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 165.1 30.48 0)
@@ -1814,7 +1819,7 @@
     (instances
       (project "bugg-led-r4"
         (path "/79d27b01-4301-4e81-9656-f37ccd19516d"
-          (reference "H205") (unit 1) (value "MountingHole") (footprint "")
+          (reference "H205") (unit 1) (value "MountingHole") (footprint "jeffmakes-footprints:MountingHole_2.0mm")
         )
       )
     )

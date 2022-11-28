@@ -1,0 +1,22 @@
+### Module positions - created on Sun 27 Nov 2022 20:40:46 GMT ###
+### Printed by Pcbnew version 6.99.0-1.20221101gitf80c150.fc36
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                                                               PosX       PosY       Rot  Side
+FID1      Fiducial         Fiducial_1mm_Mask2mm                                               -5.0000     9.0000    0.0000  bottom
+FID2      Fiducial         Fiducial_1mm_Mask2mm                                                3.0000   -35.5000    0.0000  bottom
+J201      2314844-8        PinSocket_2x04_P2.00mm_Vertical_SMD_Bottom_or_Top_Entry_AMPMODU    12.0000   -12.0000  180.0000  bottom
+J202      FH12A-20S-0.5SH  Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal                  14.0000     0.0000  -90.0000  bottom
+LED201    IN-P32TATRGB     LED_Avago_PLCC4_3.2x2.8mm_CW                                        0.0000   -15.0000    0.0000  bottom
+LED202    IN-P32TATRGB     LED_Avago_PLCC4_3.2x2.8mm_CW                                        0.0000   -23.0000    0.0000  bottom
+LED203    IN-P32TATRGB     LED_Avago_PLCC4_3.2x2.8mm_CW                                        0.0000   -31.0000    0.0000  bottom
+R201      22k              R_0603_1608Metric                                                   3.5500   -13.4000  -90.0000  bottom
+R202      22k              R_0603_1608Metric                                                   3.3500   -21.4000  -90.0000  bottom
+R203      22k              R_0603_1608Metric                                                   3.4500   -29.3000  -90.0000  bottom
+R204      39k              R_0603_1608Metric                                                   4.4500   -16.4500  -90.0000  bottom
+R205      39k              R_0603_1608Metric                                                  -0.6500   -20.5000  180.0000  bottom
+R206      39k              R_0603_1608Metric                                                  -0.6500   -28.4000  180.0000  bottom
+R207      10k              R_0603_1608Metric                                                  -0.6500   -17.4500  180.0000  bottom
+R208      10k              R_0603_1608Metric                                                  -0.6500   -19.0000  180.0000  bottom
+R209      10k              R_0603_1608Metric                                                  -0.6500   -26.8000  180.0000  bottom
+## End

@@ -1,6 +1,6 @@
 ![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-# sp-hardware-led
+# bugg-hardware-led
 
 This repository contains the KiCad source files for the LED PCB of the Bugg recording device.
 
@@ -9,3 +9,7 @@ For a full overview of the design of the Bugg recording device and practical ass
 ## Electronics overview
 
 ![Bugg full assembly - side](https://raw.githubusercontent.com/bugg-resources/bugg-handover/master/img/system-diagram.png?raw=true)
+
+## BoM
+
+[Interactive BoM for the LED board](https://raw.githack.com/jeffmakes/bugg-hardware-led/main/r4/build/bugg-led-r4-bom/bugg-led-r4.html)

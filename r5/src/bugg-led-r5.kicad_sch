@@ -2085,7 +2085,7 @@
     (property "Reference" "J201" (at 175.26 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2314844-8" (at 171.45 85.09 0)
+    (property "Value" "BF100-08-A-C-1-0625-L-C" (at 171.45 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "jeffmakes-footprints:BF100-08-A-C-1-0625-L-C" (at 175.26 74.93 0)

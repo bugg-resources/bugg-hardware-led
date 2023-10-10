@@ -1,0 +1,7 @@
+"Reference","Qty","Value","Voltage","Tempco","Tolerance","Footprint","Manufacturer","MPN","Mouser","Digikey"
+"J201","1","BF100-08-A-C-1-0625-L-C","","","","jeffmakes-footprints:BF100-08-A-C-1-0625-L-C","GCT","BF100-08-A-C-1-0625-L-C","640-BF108AC10625LC",""
+"J202","1","FH12A-20S-0.5SH","","","","Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal","Hirose","FH12A-20S-0.5SH(55)","798-FH12A-20S0.5SH55","HFK120CT-ND"
+"LED201,LED202,LED203","3","IN-P32TATRGB","","","","LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW","Inolux","IN-P32TATRGB","743-IN-P32TATRGB","1830-1116-6-ND"
+"R201,R202,R203","3","22k","","","","Resistor_SMD:R_0402_1005Metric","","","",""
+"R204,R205,R206","3","39k","","","","Resistor_SMD:R_0402_1005Metric","","","",""
+"R207,R208,R209","3","10k","","","","Resistor_SMD:R_0402_1005Metric","","","",""

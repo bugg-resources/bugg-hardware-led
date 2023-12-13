@@ -3,6 +3,9 @@
     "3dviewports": [],
     "design_settings": {
       "defaults": {
+        "apply_defaults_to_fp_fields": false,
+        "apply_defaults_to_fp_shapes": false,
+        "apply_defaults_to_fp_text": false,
         "board_outline_line_width": 0.09999999999999999,
         "copper_line_width": 0.19999999999999998,
         "copper_text_italic": false,
@@ -180,6 +183,32 @@
         0.25,
         0.4
       ],
+      "tuning_pattern_settings": {
+        "diff_pair_defaults": {
+          "corner_radius_percentage": 100,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.1,
+          "single_sided": false,
+          "spacing": 0.6
+        },
+        "diff_pair_skew_defaults": {
+          "corner_radius_percentage": 100,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.1,
+          "single_sided": false,
+          "spacing": 0.6
+        },
+        "single_track_defaults": {
+          "corner_radius_percentage": 100,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.1,
+          "single_sided": false,
+          "spacing": 0.6
+        }
+      },
       "via_dimensions": [
         {
           "diameter": 0.0,
@@ -192,6 +221,13 @@
       ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
+    },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
     },
     "layer_presets": [
       {
@@ -499,7 +535,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../build/bugg-led-r5-fabrication/",
+      "plot": "../build/bugg-led-r5-assembly/",
       "pos_files": "../build/bugg-led-r5-assembly/",
       "specctra_dsn": "",
       "step": "",
@@ -559,11 +595,53 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser",
+          "name": "Mouser",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey",
+          "name": "Digikey",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey",
+          "name": "Field-1",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
